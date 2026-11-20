@@ -1,14 +1,3 @@
-# Inderraj Singh — Portfolio V2.0
+# Inderraj Singh Portfolio
 
-## Update contents
-- `index.html` — updated portfolio with selected portrait and five selected creative-work samples.
-- `portrait.jpg` — selected profile photo.
-- `work-asus-tuff.jpg`
-- `work-silk-route.png`
-- `work-moosi-chhatri.png`
-- `work-jaipur-pink-city.png`
-- `work-hosteller-jodhpur.png`
-- CV PDF and DOCX files.
-
-## Publish on GitHub Pages
-Upload/replace all files in this folder in the same GitHub repository folder as `index.html` (repository root). Keep the image files beside `index.html`; do not put them in a separate folder unless you also update the image paths. Commit the changes. GitHub Pages will publish automatically.
+Updated portfolio package with original-ratio masonry gallery. Replace the repository's `index.html` and upload all `work-*` image assets into the same repository root as `portrait.jpg` and the CV files. Keep filenames unchanged. The gallery uses natural image dimensions and `height:auto` so images are not stretched or forcibly cropped.
